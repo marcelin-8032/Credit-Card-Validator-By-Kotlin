@@ -1,3 +1,5 @@
+package fr.credit.card.validator
+
 object CreditCard {
 
     fun isValid(number: String): Boolean {
